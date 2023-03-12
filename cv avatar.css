@@ -1,0 +1,100 @@
+img {
+	width:250px;
+	height:250px;
+	border:20px inset;
+  
+}
+
+je {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  
+}
+
+.niveau, .xp, .classe , .competences {
+  background-color:#d11924;
+  padding: 10px;
+  text-align: center;
+  font-family:cursive;
+  font-size:large;
+}
+	
+ 
+		
+	
+
+
+body { 
+
+	 
+	border:solid;
+}
+
+  
+
+	
+	 
+
+
+	h2 { 
+	
+		border: 1px solid black;
+		
+	}
+	
+
+
+.inventaire {
+    border: 2px solid #333; 
+    padding: 10px; 
+	background-image:url("https://www.playscope.com/wp-content/uploads/2021/06/DemonSlayerKimetsunoYaibaTheHinokamiChronicles_images_0046.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.katana {
+    border: 2px solid #ff0000; 
+    padding: 10px; 
+	font-family:cursive;
+	font-size:x-large;
+	
+}
+
+
+.shurikens {
+    border: 2px solid #00ff00; 
+    padding: 10px; 
+	font-family:cursive;
+	font-size:x-large;
+}
+
+
+.potion {
+    border: 2px solid #0000ff; 
+    padding: 10px; 
+	font-family:cursive;
+	font-size:x-large;
+}
+
+
+.bouclier {
+    border: 2px solid #ff00ff; 
+    padding: 10px;
+	font-family:cursive;
+	font-size:x-large; 	
+}
+
+
+.volantes {
+    border: 2px solid #ffff00; 
+    padding: 10px; 
+	font-family:cursive;
+	font-size:x-large;
+} 
+
+body { 
+
+	background-color:#7d19d1;
+}
+
